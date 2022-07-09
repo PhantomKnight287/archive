@@ -7,4 +7,13 @@ This is a list of the Projects which I started and never finished them, they're 
 |3.| PC Commerce | An ECommerce Applicatin created using Nextjs and Strapi |
 |4.|  Bootstraper | A Cli written in rust to manage a React Project. Able to create pages/components and other helpers|
 | 5. | Killer | A Backend written in rust with least dependencies. A Proper login,logout system and roles(bitwise operations) based access |
+| 6. | Db Schema | A sql query builder for Deno|
+|7.| TDD | Learning TDD but never got an idea of what to test in a React App.|
+|8.| Rusty | An Code Editor written in Rust|
+|9.| GHQL| An Api wrapper for Graphql Api of Github |
+|10.| DevCord| A Discord Clone maed using Express, React and Mongodb |
+|11.| BuilderUI | A UI Library for React Native with Native Dark Theme support. This is dead because idk how to init the project|
+|12.| Noter | A Nextjs app with builtin MD editor to write and save notes on the go.|
 
+
+There are more of these projects, I will add them later.
