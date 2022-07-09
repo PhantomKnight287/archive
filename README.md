@@ -16,5 +16,9 @@ This is a list of the Projects which I started and never finished them, they're 
 |12.| Noter | A Nextjs app with builtin MD editor to write and save notes on the go.|
 |13.| Sharpner| A Razor Pay api wrapper for React Native especially for expo's managed workflow|
 |14.| VCommerce | An ECommerce Application created using Nuxtjs and Strapi |
+|15.| BlogVerse| A site to post blogs, Made using Nextjs and Planetscale|
+|16.| NextAngo| A Site created using Nextjs and Django. |
+|17.| DyNext| A voting platform created using Dynamodb and Nextjs. It is dead because I got a bill of few bucks when making this|
+|18.| Sqlite on Drugs| A Wrapper around python's Native Sqlite module |
 
 There are more of these projects, I will add them later.
